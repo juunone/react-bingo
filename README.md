@@ -3,7 +3,7 @@
 ## Description
 
 - use create-react-app, redux , sass
-- add gh-pages with git/repository
+- deploy gh-pages with git/repository
 
 ## Demo
 
