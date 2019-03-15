@@ -11,6 +11,7 @@ class Button extends Component{
         return(
             <Fragment>
                 <header>
+                    <h1>&#x1F3AE;빙고 게임</h1>
                     <button className={this.props.is_start !== true ? "game__start" : "game__restart"} 
                         onClick={()=>{this._startGame(true)}}>
                         {this.props.is_start !== true ? '게임 시작' : '게임 재시작'}
