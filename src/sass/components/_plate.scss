@@ -1,0 +1,39 @@
+.plate {
+  flex: 0 1 auto;
+  align-self: auto;
+  text-align: center;
+  background: #999;
+  margin: 0 1em;
+
+  h3 {
+    margin: 1em 3em;
+    padding: 0.5em 0;
+    background: #000;
+    color: #fff;
+    font-weight: 600;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+
+    li {
+      flex: 0 1 auto;
+      align-self: auto;
+      text-align: center;
+      width: 50px;
+      height: 50px;
+      line-height: 50px;
+      cursor: pointer;
+
+      &.selected {
+        background: #000;
+        color: #fff;
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+button {
+  &.game__start {
+    border-radius: 3px;
+    padding: 0.8em 2.5em;
+    border: none;
+    font-size: 0.9rem;
+    background-color: #e4213b;
+    color: #fff;
+
+    &:hover {
+      background-color: #e50020;
+    }
+  }
+
+  &.game__restart {
+    border-radius: 3px;
+    padding: 0.8em 2.5em;
+    border: none;
+    font-size: 0.9rem;
+    background-color: #0a63ff;
+    color: #fff;
+
+    &:hover {
+      background-color: #0251dc;
+    }
+  }
+}
