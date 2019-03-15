@@ -15,14 +15,19 @@
     "scss": "^0.2.4",
     "gh-pages": "^2.0.1"
   },
+  "devDependencies": {
+    "redux-logger": "^3.0.6",
+    "sass": "^1.17.2",
+    "rimraf": "^2.6.3"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d dist",
-    "clean": "rimraf dist"
+    "deploy": "gh-pages -d build",
+    "clean": "rimraf build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,10 +37,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "redux-logger": "^3.0.6",
-    "sass": "^1.17.2",
-    "rimraf": "^2.6.3"
-  }
+  ]
 }
