@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-bingo/precache-manifest.f3d498a9a7a86a0d47a3661dadad730c.js"
+  "/react-bingo/precache-manifest.e430cc79d82af9c0031da8a999aae449.js"
 );
 
 workbox.clientsClaim();

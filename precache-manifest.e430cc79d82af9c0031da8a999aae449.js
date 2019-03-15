@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-bingo/static/css/main.87c40679.chunk.css"
   },
   {
-    "revision": "bdee63550ed2a727c2586ff5be58f7ed",
+    "revision": "72727e7bbd75229e1c9ada02bb76a192",
     "url": "/react-bingo/index.html"
   }
 ];
