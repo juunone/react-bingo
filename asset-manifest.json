@@ -1,15 +1,13 @@
 {
-  "main.css": "/mathflat-interface/static/css/main.8a64681c.chunk.css",
-  "main.js": "/mathflat-interface/static/js/main.98be32e6.chunk.js",
-  "main.js.map": "/mathflat-interface/static/js/main.98be32e6.chunk.js.map",
-  "runtime~main.js": "/mathflat-interface/static/js/runtime~main.bd4d0ed8.js",
-  "runtime~main.js.map": "/mathflat-interface/static/js/runtime~main.bd4d0ed8.js.map",
-  "static/js/2.6b7c6eca.chunk.js": "/mathflat-interface/static/js/2.6b7c6eca.chunk.js",
-  "static/js/2.6b7c6eca.chunk.js.map": "/mathflat-interface/static/js/2.6b7c6eca.chunk.js.map",
-  "index.html": "/mathflat-interface/index.html",
-  "precache-manifest.e6ab3939c291737af6a4dd8ea1af36ee.js": "/mathflat-interface/precache-manifest.e6ab3939c291737af6a4dd8ea1af36ee.js",
-  "service-worker.js": "/mathflat-interface/service-worker.js",
-  "static/css/main.8a64681c.chunk.css.map": "/mathflat-interface/static/css/main.8a64681c.chunk.css.map",
-  "static/media/my_piece.svg": "/mathflat-interface/static/media/my_piece.6dd40810.svg",
-  "static/media/piece.svg": "/mathflat-interface/static/media/piece.b3313649.svg"
+  "main.css": "/react-bingo/static/css/main.c04d27ad.chunk.css",
+  "main.js": "/react-bingo/static/js/main.7c1fa32b.chunk.js",
+  "main.js.map": "/react-bingo/static/js/main.7c1fa32b.chunk.js.map",
+  "runtime~main.js": "/react-bingo/static/js/runtime~main.67983e0f.js",
+  "runtime~main.js.map": "/react-bingo/static/js/runtime~main.67983e0f.js.map",
+  "static/js/2.879072fc.chunk.js": "/react-bingo/static/js/2.879072fc.chunk.js",
+  "static/js/2.879072fc.chunk.js.map": "/react-bingo/static/js/2.879072fc.chunk.js.map",
+  "index.html": "/react-bingo/index.html",
+  "precache-manifest.07d78646c4353f482c9bd34115c275d4.js": "/react-bingo/precache-manifest.07d78646c4353f482c9bd34115c275d4.js",
+  "service-worker.js": "/react-bingo/service-worker.js",
+  "static/css/main.c04d27ad.chunk.css.map": "/react-bingo/static/css/main.c04d27ad.chunk.css.map"
 }
